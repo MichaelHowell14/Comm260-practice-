@@ -1,0 +1,31 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	font-size: 48px;
+	color: darkblue;
+}
+h2{
+	Color: Blue;
+}
+#main-nav{
+	font-size: 1.3em;
+}
+#main-nav a,
+#main-nav a:visited{
+	text-decoration:none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active{
+	text-decoration: underline
+}
+
+}
+ul{
+	color: gray;
+}
+blockqoute{
+	Font-size: 24px;
+	Color: Blue; 
+}
